@@ -1,0 +1,10 @@
+🚨 Threat Type: Brute Force
+
+🧠 AI Explanation:
+ 
+    You are a SOC analyst.
+    
+    Log: User tried 10 failed logins in 2 minutes
+    
+    Similar Incident: Failed login attempt from IP 192.168.1.10
+    Threat Type: Brute Force
