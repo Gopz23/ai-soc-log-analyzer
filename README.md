@@ -17,6 +17,7 @@ Python
 Sentence Transformers
 FAISS (Vector DB)
 Hugging Face Transformers
+
 ▶️ How to Run
 git clone https://github.com/your-username/ai-soc-log-analyzer.git
 cd ai-soc-log-analyzer
